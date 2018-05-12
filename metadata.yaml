@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '41796'
     url: http://www.gutenberg.org/2009/agents/41796
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42651#Henriette-Goldschmidt--Ihr-Leben-und-ihr-Schaffen
 gutenberg_issued: '2013-05-05'
 gutenberg_type: Text
 identifiers:
