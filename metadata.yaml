@@ -1,0 +1,37 @@
+_repo: Henriette-Goldschmidt--Ihr-Leben-und-ihr-Schaffen_42651
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Siebe, Josephine
+    alias: Siebe, Josefine
+    birthdate: 1870
+    deathdate: 1941
+    gutenberg_agent_id: '38491'
+    url: http://www.gutenberg.org/2009/agents/38491
+  - agent_name: Prüfer, Johannes
+    aliases:
+    - Prufer, Johannes
+    - Prüfer, Dr. Johannes
+    birthdate: 1882
+    gutenberg_agent_id: '41796'
+    url: http://www.gutenberg.org/2009/agents/41796
+description: ''
+gutenberg_issued: '2013-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42651'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Goldschmidt, Henriette, 1825-1920'
+- !lcc 'HQ'
+- !lcsh 'Women''s rights -- Germany -- History -- Sources'
+- !lcsh 'Women -- Germany -- Social conditions -- Sources'
+- !lcsh 'Women -- Germany -- History -- Sources'
+title: 'Henriette Goldschmidt: Ihr Leben und ihr Schaffen'
+url: http://www.gutenberg.org/ebooks/42651
